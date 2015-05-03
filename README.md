@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pathogen.vim
 ============
 
@@ -174,3 +175,12 @@ License
 
 Copyright (c) Tim Pope.  Distributed under the same terms as Vim itself.
 See `:help license`.
+=======
+# my_vim_ide
+<<<<<<< HEAD
+molikai add
+#new
+=======
+2015
+>>>>>>> 9f3c84975b8a31c81b572548d718957656890fd3
+>>>>>>> 97c8d5048ce9fb50f3469873cb600e3450398b03
